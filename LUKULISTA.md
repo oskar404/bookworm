@@ -27,3 +27,15 @@ Logico joka ratkoi murhia. Viihdyttäviä ja hauskoja pulmia, mutta nopeasti tun
 turhan toisteiselta. En tiedä voiko sanoa lukemiseksi kirjan kahlaamista mutta kaikki
 pulmat on yritetty ratkoa. Kaikki ei mennyt putkeen mutta suurin osa tuli oikein
 ratkottua.
+
+## Snow Crash, Neal Stephenson
+
+Luettu 15.2.2026
+
+1993 Penguin Books (© 1992 Neal Stephenson)
+
+Monen vuoden jälkeen uudelleen lukemisen jälkeenkin erittäin hyvä kirja. Tekniikka
+on mennyt eri suuntaan, mutta edelleen mielenkiintoinen. Kirja antaa kuvan tulevaisuudesta
+joka on dystooppinen mutta osuu aika lähelle sitä mitä Ameriikan mantereella nyt
+tapahtuu. Kirjassa USA on pirstaloitunut ja erilaisia ryhmiä pitää valtiota hallussaan
+ja pitää todellista valtaa virallisen valtiokoneiston ohi.
